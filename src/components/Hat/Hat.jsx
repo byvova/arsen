@@ -1,7 +1,7 @@
-import css from './Header.module.css'
+import css from './Hat.module.css'
 
 
-export const Header = (() => {
+export const Hat = (() => {
     return (
         <div className={css.container}>
             <h1 className={css.header}>Arsen</h1>

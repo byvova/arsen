@@ -1,10 +1,12 @@
-import { Header } from '../header/header'
+
+
+import { Hat } from '../Hat/Hat'
 import { Main } from '../Main/Main'
 
 export const App = (() => {
   return (
     <>
-      <Header></Header>
+      <Hat/>
       <Main />
       <p>дальше більше ...</p>
     </>
