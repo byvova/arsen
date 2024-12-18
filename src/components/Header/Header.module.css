@@ -1,0 +1,14 @@
+.header{
+        font-size: 80px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 32px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
