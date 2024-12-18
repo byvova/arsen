@@ -1,5 +1,3 @@
-
-
 import { Hat } from '../Hat/Hat'
 import { Main } from '../Main/Main'
 
